@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+*.js.map
+recordings/
+火山应用信息.md
+target/
+*.class
